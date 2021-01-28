@@ -1,0 +1,76 @@
+A - General Engineering Contractor
+B - General Building Contractor
+C-2 - Insulation and Acoustical Contractor
+C-4 - Boiler, Hot Water Heating and Steam Fitting Contractor
+C-5 - Framing and Rough Carpentry Contractor
+C-6 - Cabinet, Millwork and Finish Carpentry Contractor
+C-7 - Low Voltage Systems Contractor
+C-8 - Concrete Contractor
+C-9 - Drywall Contractor
+C-10 - Electrical Contractor
+C-11 - Elevator Contractor
+C-12 - Earthwork and Paving Contractors
+C-13 - Fencing Contractor
+C-15 - Flooring and Floor Covering Contractors
+C-16 - Fire Protection Contractor
+C-17 - Glazing Contractor
+C-20 - Warm-Air Heating, Ventilating and Air-Conditioning Contractor
+C-21 - Building Moving/Demolition Contractor
+C-22 - Asbestos Abatement Contractor
+C-23 - Ornamental Metal Contractor
+C-27 - Landscaping Contractor
+C-28 - Lock and Security Equipment Contractor
+C-29 - Masonry Contractor
+C-31 - Construction Zone Traffic Control Contractor
+C-32 - Parking and Highway Improvement Contractor
+C-33 - Painting and Decorating Contractor
+C-34 - Pipeline Contractor
+C-35 - Lathing and Plastering Contractor
+C-36 - Plumbing Contractor
+C-38 - Refrigeration Contractor
+C-39 - Roofing Contractor
+C-42 - Sanitation System Contractor
+C-43 - Sheet Metal Contractor
+C-45 - Sign Contractor
+C-46 - Solar Contractor
+C-47 - General Manufactured Housing Contractor
+C-50 - Reinforcing Steel Contractor
+C-51 - Structural Steel Contractor
+C-53 - Swimming Pool Contractor
+C-54 - Ceramic and Mosaic Tile Contractor
+C-55 - Water Conditioning Contractor
+C-57 - Well Drilling Contractor
+C-60 - Welding Contractor
+C-61 - Limited Specialty Classification
+C-61/D-3 - Awnings Contractor
+C-61/D-4 - Central Vacuum Systems Contractor
+C-61/D-6 - Concrete-Related Services Contractor
+C-61/D-9 - Drilling, Blasting and Oil Field Work Contractor
+C-61/D-10 - Elevated Floors Contractor
+C-61/D-12 - Synthetic Products Contractor
+C-61/D-16 - Hardware, Locks and Safes Contractor
+C-61/D-21 - Machinery and Pumps Contractor
+C-61/D-24 - Metal Products Contractor
+C-61/D-28 - Doors, Gates and Activating Devices Contractor
+C-61/D-29 - Paperhanging Contractor
+C-61/D-30 - Pile Driving and Pressure Foundation Jacking Contractor
+C-61/D-31 - Pole Installation and Maintenance Contractor
+C-61/D-34 - Prefabricated Equipment Contractor
+C-61/D-35 - Pool and Spa Maintenance Contractor
+C-61/D-38 - Sand and Water Blasting Contractor
+C-61/D-39 - Scaffolding Contractor
+C-61/D-40 - Service Station Equipment and Maintenance Contractor
+C-61/D-41 - Siding and Decking Contractor
+C-61/D-42 - Non-Electrical Sign Installation
+C-61/D-49 - Tree Service Contractor
+C-61/D-50 - Suspended Ceilings Contractor
+C-61/D-52 - Window Coverings Contractor
+C-61/D-53 - Wood Tanks Contractor
+C-61/D-56 - Trenching Only Contractor
+C-61/D-59 - Hydroseed Spraying Contractor
+C-61/D-62 - Air and Water Balancing Contractor
+C-61/D-63 - Construction Clean-up Contractor
+C-61/D-64 - Non-specialized Contractor
+C-61/D-65 - Weatherization and Energy Conservation Contractor
+ASB - Asbestos Certification
+HAZ - Hazardous Substance Removal Certification
